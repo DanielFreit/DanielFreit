@@ -8,7 +8,7 @@ Passion for Python and automated projects 🧠
 
 
 <br>
-You can reach me at: naointendo@gmail.com
+You can reach me at: freitasnda1988@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
