@@ -18,24 +18,24 @@ You can reach me at: freitasnda1988@gmail.com
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-Python 🐍
-R 📊
-SQL 🗄️
-NoSQL 📅
-Spark ✨
+Python 🐍 |
+R 📊 |
+SQL 🗄️ |
+NoSQL 📅 |
+Spark ✨ |
 
-Machine Learning 🤖
-Deep Learning 🧠
-Artificial Intelligence 🧮
-Big Data 🌐
-TensorFlow 🌀
-PyTorch 🔥
-Pandas 🐼
-Scikit-Learn 🔍
-Natural Language Processing 💬
-OpenCV 📸
-Git & GitHub 🌿
-Jupyter Notebook 📓
-Data Visualization 📈
-Statistics 🎲
+Machine Learning 🤖 |
+Deep Learning 🧠 |
+Artificial Intelligence 🧮 |
+Big Data 🌐 |
+TensorFlow 🌀 |
+PyTorch 🔥 |
+Pandas 🐼 |
+Scikit-Learn 🔍 |
+Natural Language Processing 💬 |
+OpenCV 📸 |
+Git & GitHub 🌿 |
+Jupyter Notebook 📓 |
+Data Visualization 📈 |
+Statistics 🎲 |
 
