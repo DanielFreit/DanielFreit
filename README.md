@@ -1,11 +1,12 @@
 <h3 align="center">Hello! 🖐</h3>
 
+I'm Daniel, a professional with 4 years of specialization in Python, SQL, Statistics and Big Data. Experienced in Machine Learning and Deep Learning techniques, from exploratory analysis to deployment via RestAPI. 👀
 
-I’m Daniel Freitas! I’m a data scientist and I’m currently learning AI to make the difference! ✔
+I have great ease in conversations about problems/resolutions, as well as a graphic and data storytelling skills, making use of libraries such as SKLearn, Numpy, Matplotlib, Pytorch, Pandas, Tensorflow, among others. 🧠
 
-Currently learning about AI! 👀
-Passion for Python and automated projects 🧠
+I enjoy image/film/audio media and the use of computer vision to perform tasks, using OpenCV for tracking, classification, and autoencoders, among others. 🎶
 
+Recently, I've been working on creating NLP models using LLMs for chatbots. ✔
 
 <br>
 You can reach me at: freitasnda1988@gmail.com
